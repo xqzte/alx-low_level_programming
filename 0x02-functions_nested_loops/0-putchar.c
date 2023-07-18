@@ -1,8 +1,7 @@
 #include "main.h"
 	/**
 	 * main - Entry point
-	 * is written by mbah
-	 * Return: 0
+	 * Return: Always return 0 (success)
 	 */
 
 
