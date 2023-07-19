@@ -1,19 +1,13 @@
 #include "main.h"
+/**
+ * print_alphabet - short description,
+ *
+ * Return: Description of the returned value
+ */
+void print_alphabet(voidii)
+{
+	int i;
 
-
-	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 */
-
-
-	void print_alphabet(void)
+	for (i = 97; i <= 122; i++)
 	{
-		char letter;
-
-
-		for (letter = 'a'; letter <= 'z'; letter++)
-			_putchar(letter);
-
-
-		_putchar('\n');
-	}
+		_putchar
