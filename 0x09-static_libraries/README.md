@@ -1,0 +1,1 @@
+mhy first static library
